@@ -81,7 +81,7 @@
 
                                             <li><a href="#" target="blank">Dana Bos</a></li>
                                             <li><a href="<?= base_url('web/modul') ?>">Unduh</a></li>
-                                            <li><a href="#"><i class="fab fa-whatsapp"></i> What'sApp</a></li>
+                                            <li><a href="https://wa.me/0811111" target="blank"><i class=" fab fa-whatsapp"></i> What'sApp</a></li>
 
                                         </ul>
                                     </nav>
