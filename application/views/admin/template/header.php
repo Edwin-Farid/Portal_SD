@@ -6,7 +6,7 @@
 
   <div class="d-flex align-items-center justify-content-between">
     <a href="index.html" class="logo d-flex align-items-center">
-      <img src="<?= base_url() ?>assets/web/assets/img/logo/logo1.png" alt="">
+      <img src="<?= base_url() ?>assets/web/assets/img/logo/logo_project_sekolah.png" alt="">
       <span class="d-none d-lg-block">Administrator</span>
     </a>
     <i class="bi bi-list toggle-sidebar-btn"></i>
@@ -32,7 +32,7 @@
 
         <ul class="dropdown-menu dropdown-menu-end dropdown-menu-arrow profile">
           <li class="dropdown-header">
-            <h6>FAHRURROZI</h6>
+            <h6><?php echo $this->session->userdata("nama"); ?></h6>
             <span>Administrator</span>
           </li>
           <li>
