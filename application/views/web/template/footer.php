@@ -8,7 +8,7 @@
                         <div class="single-footer-caption">
                             <!-- logo -->
                             <div class="footer-logo">
-                                <a href="index.html"><img src="<?= base_url() ?>assets/web/assets/img/logo/logo_project_sekolah.png" width="250px" alt=""></a>
+                                <a href="index.html"><img src="<?= base_url() ?>assets/web/assets/img/logo/logo_project_sekolah.png" width="100px" alt=""></a>
                             </div>
                             <div class="footer-tittle">
                                 <div class="footer-pera">

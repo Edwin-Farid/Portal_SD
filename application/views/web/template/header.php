@@ -3,7 +3,7 @@
         <!-- Header Start -->
         <div class="header-area">
             <div class="main-header ">
-                <div class="header-top black-bg d-none d-md-block">
+                <div class="header-top d-none d-md-block" style="background-color: black;">
                     <div class="container">
                         <div class="col-xl-12">
                             <div class="row d-flex justify-content-between align-items-center">
